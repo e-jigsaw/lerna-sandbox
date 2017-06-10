@@ -1,8 +1,11 @@
 {
+  "private": true,
   "name": "lerna-sandbox",
-  "version": "1.0.0",
   "description": "lerna sandbox",
   "main": "index.js",
   "author": "jigsaw (http://jgs.me)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^2.0.0-rc.5"
+  }
 }
