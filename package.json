@@ -1,0 +1,8 @@
+{
+  "name": "lerna-sandbox",
+  "version": "1.0.0",
+  "description": "lerna sandbox",
+  "main": "index.js",
+  "author": "jigsaw (http://jgs.me)",
+  "license": "MIT"
+}
